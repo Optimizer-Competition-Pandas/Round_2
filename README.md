@@ -29,7 +29,7 @@
 - [قدردانی](#acknowledgments)
 
 ## 🧐 صورت‌بندی سوال <a name = "problem_statement"></a>
-
+<a href="https://ibb.co/BCBMdr5"><img src="https://i.ibb.co/9rW5zVk/2.png" alt="2" border="0"></a>
 ## 💡 الگوریتم بهینه‌سازی <a name = "idea"></a>
 از روش کمینه‌سازی نرم یک وزندار با تصادف متغیر استفاده کردیم که آن را می‌توان در فصل هفتم و بخش دوم کتاب
 
